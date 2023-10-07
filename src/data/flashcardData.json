@@ -1,0 +1,26 @@
+{
+    "flashcards": [
+          {
+            "animal_pic":
+              "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLC0XMrbruvZVhDqJRYPo9DPBBAcBnh1kDXF6TRva8GisBPi7_",
+            "answer": "Fennex"
+          },
+          {
+            "animal_pic":
+              "https://i.pinimg.com/originals/2a/7e/f4/2a7ef42f53c77aff9430de39e5dac24b.jpg",
+            "answer": "Rabbit"
+          },
+          {
+            "animal_pic": "https://www.pandasinternational.org/wp-content/uploads/2020/01/%E7%84%B6%E7%84%B6%EF%BC%88Ran-Ran-3-500x500.jpg",
+            "answer": "Panda"
+          },
+          {
+            "animal_pic": "https://curiodyssey.org/wp-content/uploads/bb-plugin/cache/animal-bird-great-grey-owl-square-ce2c288cceaf3636e90a78591e215b49-58c5c20b86359.jpg",
+            "answer": "Great Grey Owl"
+          },
+          {
+            "animal_pic": "https://www.georgiaaquarium.org/wp-content/uploads/2022/03/Dolphin-500x500.jpeg",
+            "answer": "Dolphin"
+          }
+    ] 
+}
