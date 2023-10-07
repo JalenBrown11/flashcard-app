@@ -29,8 +29,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<a href='https://imgur.com/58QKWct'></a>
-<img src='http://i.imgur.com/58QKWct.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href='https://imgur.com/58QKWct'>Video Walkthrough</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif 
